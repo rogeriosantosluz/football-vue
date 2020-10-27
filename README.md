@@ -1,5 +1,5 @@
 # football-vue
-Football Championship is a proof of concept using Vue.js as frontend and Flask s backend (https://github.com/rogeriosantosluz/football)
+Football Championship is a proof of concept using Vue.js as frontend and Flask as backend (https://github.com/rogeriosantosluz/football)
 
 ## Project setup
 ```

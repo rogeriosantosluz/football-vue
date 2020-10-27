@@ -1,5 +1,5 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>Footaball Championship é uma prova de conceito de Vue.js e Flask</h1>
   </div>
 </template>
